@@ -1,0 +1,81 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+*.env
+.env
+.env.*
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+env/*
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# PyCharm settings
+.idea/
+
+# macOS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+sdist/
+
+# Celery beat schedule file
+celerybeat-schedule.*
+
+# Test coverage
+.coverage
+.tox
+nosetests.xml
+coverage.xml
+*.cover
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyInstaller
+# Usually these files are written by a python script from a compiled project
+*.manifest
+*.spec
+
+# pytest
+.cache
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*.pyo
+*.pyd
+
+# Unit test / Coverage reports
+htmlcov/
