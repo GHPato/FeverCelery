@@ -25,3 +25,7 @@ PostgreSQL Storage: The processed events are stored or updated in a PostgreSQL d
 
     - make worker
     - make beat
+
+## Prerequisites
+
+Have Flask, PostgreSQL and Redis running (https://github.com/FeverCodeChallenge/PatricioGhillino/tree/master)
