@@ -50,7 +50,7 @@ wheels/
 sdist/
 
 # Celery beat schedule file
-celerybeat-schedule
+celerybeat-schedule.*
 
 # Test coverage
 .coverage
@@ -79,8 +79,3 @@ dmypy.json
 
 # Unit test / Coverage reports
 htmlcov/
-
-# Celery files
-celerybeat-schedule.bak
-celerybeat-schedule.dat
-celerybeat-schedule.dir
